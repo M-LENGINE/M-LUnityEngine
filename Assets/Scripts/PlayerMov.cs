@@ -7,7 +7,9 @@ public class PlayerMov : MonoBehaviour
 {
     public SpriteAnim AnimMotor;
     public float MovSPD,xx,yy,jmpdist,forcejmp;
-    public bool jumping, walking, idle, floor, landing, warping, caninput;
+    public bool jumping, walking, idle, floor, landing;
+    public bool warping = false;
+    public bool caninput;
     public Rigidbody rigid;
     public ShadowScr shdow;
     private RaycastHit hit;
@@ -18,12 +20,26 @@ public class PlayerMov : MonoBehaviour
     public InventorySystem iv;
     public AudioSource Jump;
     public int warpdir = 0; // 0 - right, 1 - up, 2 - left, 3 - down.
+    public RememberWarp ConfigWarp;
     // Start is called before the first frame update
     void Start()
     {
+
+        ConfigWarp = GameObject.Find("Conf").GetComponent<RememberWarp>();
+        if (ConfigWarp.wasWarping) {
+            warping = true;
+            this.transform.position = ConfigWarp.wherewarp.where;
+            warpdir = ConfigWarp.wherewarp.exitdirection;
+            Invoke("warpvolver", 1f);
+        }
         Application.targetFrameRate = 60;
     }
-
+    void warpvolver() {
+        caninput = true;
+        warping = false;
+        xx = 0;
+        yy = 0;
+    }
     // Update is called once per frame
     void Update()
     {

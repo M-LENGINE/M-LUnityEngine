@@ -1724,8 +1724,9 @@ GameObject:
   m_Component:
   - component: {fileID: 341816787}
   - component: {fileID: 341816788}
+  - component: {fileID: 341816789}
   m_Layer: 0
-  m_Name: Warp
+  m_Name: Warp2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1738,12 +1739,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 341816786}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.684}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.6660001, y: 1.835666, z: 12.91}
+  m_LocalScale: {x: 2.05413, y: 0.54796, z: 3.29166}
   m_Children: []
-  m_Father: {fileID: 915438224}
-  m_RootOrder: 5
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &341816788
 BoxCollider:
@@ -1758,6 +1759,25 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1.27, z: 0.12524265}
   m_Center: {x: 0, y: 1.4548348, z: -0.33328825}
+--- !u!114 &341816789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 341816786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80dbcc38de19afc4ab15640a8bf88db5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Mario: {fileID: 1730207883}
+  cameramov: {fileID: 1619915595}
+  warp:
+    where: {x: -8, y: 0, z: -2.2}
+    exitdirection: 3
+  scene: Test
+  entracedirection: 0
 --- !u!4 &355045920 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4777712588540574436, guid: 7296f0be149dd4a4b8d7a58a4c2d14f1,
@@ -2780,7 +2800,7 @@ GameObject:
   - component: {fileID: 626181165}
   - component: {fileID: 626181166}
   m_Layer: 0
-  m_Name: Warp
+  m_Name: Warp1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2793,12 +2813,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 626181163}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.684}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.4069996, y: 0, z: -8.32}
+  m_LocalScale: {x: 2.05413, y: 0.54796, z: 3.29166}
   m_Children: []
-  m_Father: {fileID: 1096130315}
-  m_RootOrder: 5
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &626181165
 BoxCollider:
@@ -2827,8 +2847,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Mario: {fileID: 1730207883}
   cameramov: {fileID: 1619915595}
-  direction: 3
+  warp:
+    where: {x: 3.406, y: 0, z: 11}
+    exitdirection: 2
   scene: TEST
+  entracedirection: 2
 --- !u!1 &641665091
 GameObject:
   m_ObjectHideFlags: 0
@@ -8169,7 +8192,7 @@ GameObject:
   - component: {fileID: 1730207885}
   m_Layer: 0
   m_Name: Character(Mario)
-  m_TagString: Untagged
+  m_TagString: Character
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8965,6 +8988,7 @@ MonoBehaviour:
   iv: {fileID: 0}
   Jump: {fileID: 2043990048}
   warpdir: 0
+  ConfigWarp: {fileID: 0}
 --- !u!54 &1730207884
 Rigidbody:
   m_ObjectHideFlags: 0
