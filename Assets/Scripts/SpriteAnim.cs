@@ -6,7 +6,10 @@ public class SPRANIM {
     public string name;
     public Sprite[] Spr;
     public int spd;
-    public bool mirror, flip,notloop;
+    public bool mirror, flip,notloop,randomsounds,singlesound;
+
+    public AudioClip[] Sounds; // multiple = random, single = only played
+    public int[] timetodorandomsoundframe;
 }
 public class SpriteAnim : MonoBehaviour
 {
@@ -17,7 +20,8 @@ public class SpriteAnim : MonoBehaviour
     public bool len;
     public bool play;
     public SpriteRenderer rend;
-     void Start()
+    public AudioSource SoundPlayer;
+    void Start()
     {
         Application.targetFrameRate = 60;
         if (Animations[animid].Spr.Length > 1)
@@ -69,6 +73,13 @@ public class SpriteAnim : MonoBehaviour
 
     }
     void Updateframe() {
+        if (Animations[animid].randomsounds && !Animations[animid].singlesound) {
+            if (frame == Animations[animid].timetodorandomsoundframe[0] || frame == Animations[animid].timetodorandomsoundframe[1]) {
+                int rand = Mathf.FloorToInt(Random.Range(0,1));
+                SoundPlayer.clip = Animations[animid].Sounds[rand];
+                SoundPlayer.Play();
+            }
+        }
         counter = 0;
         rend.sprite = Animations[animid].Spr[frame];
 

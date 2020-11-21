@@ -16,6 +16,8 @@ public class PlayerMov : MonoBehaviour
     public int dirbef;
     public bool moving;
     public InventorySystem iv;
+    public AudioSource Jump;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -40,6 +42,7 @@ public class PlayerMov : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Z))
             {
+                Jump.Play();
                 Invoke("S",0.1f);
                 AnimMotor.frame = 0;
                 AnimMotor.counter = 0;
