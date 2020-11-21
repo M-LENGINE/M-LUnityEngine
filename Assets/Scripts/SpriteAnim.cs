@@ -46,21 +46,11 @@ public class SpriteAnim : MonoBehaviour
         rend.flipY = Animations[animid].flip;
         if (!Animations[animid].notloop)
         {
-
-            if (len)
+            if (frame >= Animations[animid].Spr.Length - 1)
             {
-                if (frame >= Animations[animid].Spr.Length)
-                {
-                    frame = 0;
-                }
+                frame = 0;
             }
-            else
-            {
-                if (frame >= Animations[animid].Spr.Length)
-                {
-                    frame = 0;
-                }
-            }
+  
 
         }
         else {
