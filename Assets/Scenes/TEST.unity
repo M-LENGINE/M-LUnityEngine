@@ -5859,11 +5859,11 @@ MonoBehaviour:
   floor: 0
   rigid: {fileID: 1730207884}
   shdow: {fileID: 70251508}
-  dist: 0.15
+  dist: 0.5
   saltar: 0
   dirbef: 0
   moving: 0
-  iv: {fileID: 0}
+  iv: {fileID: 1105632500}
 --- !u!54 &1730207884
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7918,6 +7918,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9039200426177504066, guid: 2d3665bdf45deed4682e8b1c5eec5acc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 9039200426372622207, guid: 2d3665bdf45deed4682e8b1c5eec5acc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 9039200426745137242, guid: 2d3665bdf45deed4682e8b1c5eec5acc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.35
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3665bdf45deed4682e8b1c5eec5acc, type: 3}

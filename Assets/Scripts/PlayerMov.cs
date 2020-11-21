@@ -47,7 +47,8 @@ public class PlayerMov : MonoBehaviour
                 rigid.AddForce(Vector3.up * forcejmp);
             }
         }
-        if (Physics.Raycast(this.transform.position, Vector3.down, dist))
+        Debug.DrawLine(new Vector3(this.transform.position.x, this.transform.position.y + 0.15f, this.transform.position.z), new Vector3(this.transform.position.x, 0f,this.transform.position.z),Color.red);
+        if (Physics.Raycast(new Vector3(this.transform.position.x, this.transform.position.y + 0.15f, this.transform.position.z), Vector3.down, dist))
         {
             if (saltar) {
                 saltar = false;

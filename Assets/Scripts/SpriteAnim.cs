@@ -19,7 +19,6 @@ public class SpriteAnim : MonoBehaviour
     public SpriteRenderer rend;
      void Start()
     {
-        Application.targetFrameRate = 60;
         if (Animations[animid].Spr.Length > 1)
         {
 
