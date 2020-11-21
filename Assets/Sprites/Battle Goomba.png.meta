@@ -1,0 +1,3728 @@
+fileFormatVersion: 2
+guid: 5b543bbe98e778842b22a438ef40d12c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8524026796764606667
+    second: Battle Goomba_0
+  - first:
+      213: 548712392322191794
+    second: Battle Goomba_1
+  - first:
+      213: 6658853479907364478
+    second: Battle Goomba_2
+  - first:
+      213: -3424556298667998774
+    second: Battle Goomba_3
+  - first:
+      213: 2385934408578509974
+    second: Battle Goomba_4
+  - first:
+      213: -8374586217707577901
+    second: Battle Goomba_5
+  - first:
+      213: 1412443291647183291
+    second: Battle Goomba_6
+  - first:
+      213: -4939069303554347757
+    second: Battle Goomba_7
+  - first:
+      213: 4520166535167281647
+    second: Battle Goomba_8
+  - first:
+      213: 3032186596062348333
+    second: Battle Goomba_9
+  - first:
+      213: 8943533848003043656
+    second: Battle Goomba_10
+  - first:
+      213: -8794783322532469550
+    second: Battle Goomba_11
+  - first:
+      213: -3318537666827114334
+    second: Battle Goomba_12
+  - first:
+      213: 4249592452051230416
+    second: Battle Goomba_13
+  - first:
+      213: 3157975146987217585
+    second: Battle Goomba_14
+  - first:
+      213: 547304117075767088
+    second: Battle Goomba_15
+  - first:
+      213: -8753351940200269491
+    second: Battle Goomba_16
+  - first:
+      213: 1821605204402761950
+    second: Battle Goomba_17
+  - first:
+      213: 7066088723517531750
+    second: Battle Goomba_18
+  - first:
+      213: 6988360051629095050
+    second: Battle Goomba_19
+  - first:
+      213: 3305675410690361858
+    second: Battle Goomba_20
+  - first:
+      213: 6449153038355249108
+    second: Battle Goomba_21
+  - first:
+      213: 6969458228907698748
+    second: Battle Goomba_22
+  - first:
+      213: 8137607312602755079
+    second: Battle Goomba_23
+  - first:
+      213: 679418147571829086
+    second: Battle Goomba_24
+  - first:
+      213: -970292133774344363
+    second: Battle Goomba_25
+  - first:
+      213: 7748161189226444352
+    second: Battle Goomba_26
+  - first:
+      213: -544222584406445482
+    second: Battle Goomba_27
+  - first:
+      213: -6067746622998907821
+    second: Battle Goomba_28
+  - first:
+      213: -7017075240682758377
+    second: Battle Goomba_29
+  - first:
+      213: 8143769355003900136
+    second: Battle Goomba_30
+  - first:
+      213: 6340044995438436169
+    second: Battle Goomba_31
+  - first:
+      213: -4848769201687941629
+    second: Battle Goomba_32
+  - first:
+      213: 4480646339953641688
+    second: Battle Goomba_33
+  - first:
+      213: -212782808185075449
+    second: Battle Goomba_34
+  - first:
+      213: 5690972138093211236
+    second: Battle Goomba_35
+  - first:
+      213: 4812411596742618535
+    second: Battle Goomba_36
+  - first:
+      213: -3835804842075461770
+    second: Battle Goomba_37
+  - first:
+      213: -4941266908062349202
+    second: Battle Goomba_38
+  - first:
+      213: -5604007611451091976
+    second: Battle Goomba_39
+  - first:
+      213: -7161641334067639902
+    second: Battle Goomba_40
+  - first:
+      213: -6470498039932378388
+    second: Battle Goomba_41
+  - first:
+      213: -1496891856342359989
+    second: Battle Goomba_42
+  - first:
+      213: -3534037279337384669
+    second: Battle Goomba_43
+  - first:
+      213: -3464402383377396165
+    second: Battle Goomba_44
+  - first:
+      213: -6592319688267876190
+    second: Battle Goomba_45
+  - first:
+      213: 2992606143088712174
+    second: Battle Goomba_46
+  - first:
+      213: 5258042430624058287
+    second: Battle Goomba_47
+  - first:
+      213: 4398408677759714960
+    second: Battle Goomba_48
+  - first:
+      213: 8334020019608550967
+    second: Battle Goomba_49
+  - first:
+      213: 907391856423668909
+    second: Battle Goomba_50
+  - first:
+      213: -8678514136174438888
+    second: Battle Goomba_51
+  - first:
+      213: 2067790685864237044
+    second: Battle Goomba_52
+  - first:
+      213: -4951507527228865203
+    second: Battle Goomba_53
+  - first:
+      213: -8567442478931640632
+    second: Battle Goomba_54
+  - first:
+      213: -8068406621733022309
+    second: Battle Goomba_55
+  - first:
+      213: -2803703602346057394
+    second: Battle Goomba_56
+  - first:
+      213: -3326535333117467151
+    second: Battle Goomba_57
+  - first:
+      213: -1875153653365667448
+    second: Battle Goomba_58
+  - first:
+      213: -8157733023022565230
+    second: Battle Goomba_59
+  - first:
+      213: -5006521155210964984
+    second: Battle Goomba_60
+  - first:
+      213: 4879785219690052973
+    second: Battle Goomba_61
+  - first:
+      213: 7436864316793578553
+    second: Battle Goomba_62
+  - first:
+      213: 4937847571099628914
+    second: Battle Goomba_63
+  - first:
+      213: -1515268782271441685
+    second: Battle Goomba_64
+  - first:
+      213: 4747094824504625613
+    second: Battle Goomba_65
+  - first:
+      213: 5794758818000002584
+    second: Battle Goomba_66
+  - first:
+      213: -2818955411461511103
+    second: Battle Goomba_67
+  - first:
+      213: 3701623814880874620
+    second: Battle Goomba_68
+  - first:
+      213: 1174733399805072526
+    second: Battle Goomba_69
+  - first:
+      213: 8180134872827152232
+    second: Battle Goomba_70
+  - first:
+      213: -6620836067097649429
+    second: Battle Goomba_71
+  - first:
+      213: -6709790160094104386
+    second: Battle Goomba_72
+  - first:
+      213: -2740255491582524504
+    second: Battle Goomba_73
+  - first:
+      213: -1506510235317832429
+    second: Battle Goomba_74
+  - first:
+      213: -3605819108544800715
+    second: Battle Goomba_75
+  - first:
+      213: 2420259866576226885
+    second: Battle Goomba_76
+  - first:
+      213: -517179825899167469
+    second: Battle Goomba_77
+  - first:
+      213: 7674005355461852325
+    second: Battle Goomba_78
+  - first:
+      213: -9043096691766526606
+    second: Battle Goomba_79
+  - first:
+      213: 2209152765648489300
+    second: Battle Goomba_80
+  - first:
+      213: -7566554326322488312
+    second: Battle Goomba_81
+  - first:
+      213: 4325985964093983250
+    second: Battle Goomba_82
+  - first:
+      213: 3257322333185959594
+    second: Battle Goomba_83
+  - first:
+      213: 2155582862592492834
+    second: Battle Goomba_84
+  - first:
+      213: 8605331860025307879
+    second: Battle Goomba_85
+  - first:
+      213: 936126544958683092
+    second: Battle Goomba_86
+  - first:
+      213: -2250721030808473767
+    second: Battle Goomba_87
+  - first:
+      213: 6725030070401509051
+    second: Battle Goomba_88
+  - first:
+      213: 5248295717191209537
+    second: Battle Goomba_89
+  - first:
+      213: 8145769273945198428
+    second: Battle Goomba_90
+  - first:
+      213: -5002046200942702339
+    second: Battle Goomba_91
+  - first:
+      213: -4698601478224270408
+    second: Battle Goomba_92
+  - first:
+      213: 1758672701631165250
+    second: Battle Goomba_93
+  - first:
+      213: -8102703618677547721
+    second: Battle Goomba_94
+  - first:
+      213: 3475687850532655370
+    second: Battle Goomba_95
+  - first:
+      213: 2014895816224108670
+    second: Battle Goomba_96
+  - first:
+      213: -7136837553185803432
+    second: Battle Goomba_97
+  - first:
+      213: -3715895590928006962
+    second: Battle Goomba_98
+  - first:
+      213: 5149567925229491987
+    second: Battle Goomba_99
+  - first:
+      213: -8917235798853556982
+    second: Battle Goomba_100
+  - first:
+      213: 160718978511466528
+    second: Battle Goomba_101
+  - first:
+      213: -2794344940602728355
+    second: Battle Goomba_102
+  - first:
+      213: 7756018485547052730
+    second: Battle Goomba_103
+  - first:
+      213: -5051636737806661275
+    second: Battle Goomba_104
+  - first:
+      213: -5532806568818357246
+    second: Battle Goomba_105
+  - first:
+      213: 8700384292820133228
+    second: Battle Goomba_106
+  - first:
+      213: 1403167005852481204
+    second: Battle Goomba_107
+  - first:
+      213: 770602276071104398
+    second: Battle Goomba_108
+  - first:
+      213: -8125862203743769895
+    second: Battle Goomba_109
+  - first:
+      213: 8922118481043776840
+    second: Battle Goomba_110
+  - first:
+      213: 3393464277836409854
+    second: Battle Goomba_111
+  - first:
+      213: 5991729459924129423
+    second: Battle Goomba_112
+  - first:
+      213: -1692477715236683080
+    second: Battle Goomba_113
+  - first:
+      213: 4750642120204891025
+    second: Battle Goomba_114
+  - first:
+      213: -303109708259391963
+    second: Battle Goomba_115
+  - first:
+      213: -5480965469388634520
+    second: Battle Goomba_116
+  - first:
+      213: 1050479412316814238
+    second: Battle Goomba_117
+  - first:
+      213: 3950652276729046865
+    second: Battle Goomba_118
+  - first:
+      213: -3037167347781943336
+    second: Battle Goomba_119
+  - first:
+      213: 3408436825713008175
+    second: Battle Goomba_120
+  - first:
+      213: -6394480791793875098
+    second: Battle Goomba_121
+  - first:
+      213: 1792082154963133786
+    second: Battle Goomba_122
+  - first:
+      213: 4869354569810337198
+    second: Battle Goomba_123
+  - first:
+      213: -9141809714496595281
+    second: Battle Goomba_124
+  - first:
+      213: -8916373588920692082
+    second: Battle Goomba_125
+  - first:
+      213: -1519286438373951705
+    second: Battle Goomba_126
+  - first:
+      213: -8683536713563661530
+    second: Battle Goomba_127
+  - first:
+      213: 6485020385004733800
+    second: Battle Goomba_128
+  - first:
+      213: -2299252160551495344
+    second: Battle Goomba_129
+  - first:
+      213: -9116258901741121086
+    second: Battle Goomba_130
+  - first:
+      213: 7229530398485305448
+    second: Battle Goomba_131
+  - first:
+      213: 1726572650092692386
+    second: Battle Goomba_132
+  - first:
+      213: -760825846153768623
+    second: Battle Goomba_133
+  - first:
+      213: -2335837912448689631
+    second: Battle Goomba_134
+  - first:
+      213: -7610060182625149455
+    second: Battle Goomba_135
+  - first:
+      213: -6727086301304207772
+    second: Battle Goomba_136
+  - first:
+      213: -5402447843241742370
+    second: Battle Goomba_137
+  - first:
+      213: 4223646626282049256
+    second: Battle Goomba_138
+  - first:
+      213: 1732701280339727831
+    second: Battle Goomba_139
+  - first:
+      213: 3996193534922057283
+    second: Battle Goomba_140
+  - first:
+      213: -7629212963931911674
+    second: Battle Goomba_141
+  - first:
+      213: -7664134443611767523
+    second: Battle Goomba_142
+  - first:
+      213: -2476486202993850205
+    second: Battle Goomba_143
+  - first:
+      213: -4532069567475174595
+    second: Battle Goomba_144
+  - first:
+      213: 6007908918726280163
+    second: Battle Goomba_145
+  - first:
+      213: 5276026404762916930
+    second: Battle Goomba_146
+  - first:
+      213: -6545355517543425910
+    second: Battle Goomba_147
+  - first:
+      213: -1498832242486508524
+    second: Battle Goomba_148
+  - first:
+      213: 4067100086136843294
+    second: Battle Goomba_149
+  - first:
+      213: -6863890607154367394
+    second: Battle Goomba_150
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Battle Goomba_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 625
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f4fe26ac294b980800000000000000
+      internalID: -8524026796764606667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 625
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1183c730b6d9700800000000000000
+      internalID: 548712392322191794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 625
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e8049b5fff86c50800000000000000
+      internalID: 6658853479907364478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 625
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14190c0388970d0800000000000000
+      internalID: -3424556298667998774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 625
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c24b014ba8c1120800000000000000
+      internalID: 2385934408578509974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 625
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd58a8943e77cb80800000000000000
+      internalID: -8374586217707577901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 625
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb98308b0b10a9310800000000000000
+      internalID: 1412443291647183291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 625
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d6b9003a6e47bb0800000000000000
+      internalID: -4939069303554347757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 625
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9014ec38bdabe30800000000000000
+      internalID: 4520166535167281647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 625
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d244ff6d4ad741a20800000000000000
+      internalID: 3032186596062348333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 625
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84167ee56a0dd1c70800000000000000
+      internalID: 8943533848003043656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 625
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d42ce73a27a2f580800000000000000
+      internalID: -8794783322532469550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 625
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8240b039f22f1d0800000000000000
+      internalID: -3318537666827114334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 625
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ded1b0e1d599fa30800000000000000
+      internalID: 4249592452051230416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_14
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 625
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b26fad1aa163db20800000000000000
+      internalID: 3157975146987217585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_15
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 625
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fe86ad13a689700800000000000000
+      internalID: 547304117075767088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_16
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 625
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49f262a9c8d58680800000000000000
+      internalID: -8753351940200269491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 625
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0fd693844a74910800000000000000
+      internalID: 1821605204402761950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_18
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 625
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666e7ac914acf0260800000000000000
+      internalID: 7066088723517531750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_19
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 625
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88f1e7e074abf060800000000000000
+      internalID: 6988360051629095050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_20
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 625
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a41f4954e10ed20800000000000000
+      internalID: 3305675410690361858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_21
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 625
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7bb41f48eff7950800000000000000
+      internalID: 6449153038355249108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 585
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a67fa555d78b060800000000000000
+      internalID: 6969458228907698748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 585
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700fe456cb69ee070800000000000000
+      internalID: 8137607312602755079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 585
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5909fb9437cd6900800000000000000
+      internalID: 679418147571829086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 585
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f3606f174d882f0800000000000000
+      internalID: -970292133774344363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 585
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0467f42dc8ff68b60800000000000000
+      internalID: 7748161189226444352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 585
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65275b161788278f0800000000000000
+      internalID: -544222584406445482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_28
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 585
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f21d38980bcba0800000000000000
+      internalID: -6067746622998907821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 585
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f5ae42f375e9e90800000000000000
+      internalID: -7017075240682758377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_30
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 585
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e038b1b41b740170800000000000000
+      internalID: 8143769355003900136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 585
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd915155d5cf750800000000000000
+      internalID: 6340044995438436169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 585
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e2987d916b5bcb0800000000000000
+      internalID: -4848769201687941629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_33
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 585
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d847115b147e2e30800000000000000
+      internalID: 4480646339953641688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_34
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 585
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70981dfc92b0c0df0800000000000000
+      internalID: -212782808185075449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_35
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 585
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee0bde1056afe40800000000000000
+      internalID: 5690972138093211236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_36
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 585
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad60d899de19c240800000000000000
+      internalID: 4812411596742618535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_37
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 585
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6776e50b1db74cac0800000000000000
+      internalID: -3835804842075461770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_38
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 585
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680d845de71d6bb0800000000000000
+      internalID: -4941266908062349202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_39
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 585
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f35fd8c4c09a32b0800000000000000
+      internalID: -5604007611451091976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_40
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 585
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c422962dbc9c90800000000000000
+      internalID: -7161641334067639902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_41
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 585
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce228f9905c2436a0800000000000000
+      internalID: -6470498039932378388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_42
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 585
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40e98b99c8f93be0800000000000000
+      internalID: -1496891856342359989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_43
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 585
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3257b1e81d394fec0800000000000000
+      internalID: -3534037279337384669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e06c33368fbefc0800000000000000
+      internalID: -3464402383377396165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8bafecb206384a0800000000000000
+      internalID: -6592319688267876190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9547f7e6fd78920800000000000000
+      internalID: 2992606143088712174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab474b7bb158f840800000000000000
+      internalID: 5258042430624058287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 545
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0960dde73694a0d30800000000000000
+      internalID: 4398408677759714960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 545
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ef2c36d0368a370800000000000000
+      internalID: 8334020019608550967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 545
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac073af514b79c00800000000000000
+      internalID: 907391856423668909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_51
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 545
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816dd17bf59bf8780800000000000000
+      internalID: -8678514136174438888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_52
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f79cc45ca442bc10800000000000000
+      internalID: 2067790685864237044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_53
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45c9d06326b84bb0800000000000000
+      internalID: -4951507527228865203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_54
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 545
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceffa925745a1980800000000000000
+      internalID: -8567442478931640632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_55
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 545
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9591300de2470090800000000000000
+      internalID: -8068406621733022309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_56
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 545
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e412ea6ad6e3719d0800000000000000
+      internalID: -2803703602346057394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_57
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 545
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f56fb04db5c5d1d0800000000000000
+      internalID: -3326535333117467151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_58
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8890ddfefad1af5e0800000000000000
+      internalID: -1875153653365667448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_59
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298344e7909e9ce80800000000000000
+      internalID: -8157733023022565230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_60
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8001c27f883458ab0800000000000000
+      internalID: -5006521155210964984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_61
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 545
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db3d79dca78b340800000000000000
+      internalID: 4879785219690052973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_62
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 545
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9346245a1bc053760800000000000000
+      internalID: 7436864316793578553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_63
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 545
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2753b6e3432c68440800000000000000
+      internalID: 4937847571099628914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_64
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 545
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d87d121fa8fae0800000000000000
+      internalID: -1515268782271441685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_65
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 545
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc981b9779111e140800000000000000
+      internalID: 4747094824504625613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 505
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ed3f9617e1b6050800000000000000
+      internalID: 5794758818000002584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_67
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 505
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148eb2e1dfe01e8d0800000000000000
+      internalID: -2818955411461511103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_68
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 505
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d9126f3fce5330800000000000000
+      internalID: 3701623814880874620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_69
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 505
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841b299dcd7d4010800000000000000
+      internalID: 1174733399805072526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_70
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 505
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867c5ad935da58170800000000000000
+      internalID: 8180134872827152232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 505
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beedc88fca01e14a0800000000000000
+      internalID: -6620836067097649429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_72
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 505
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4fd2e366902e2a0800000000000000
+      internalID: -6709790160094104386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_73
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 506
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3096e1628a8f9d0800000000000000
+      internalID: -2740255491582524504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_74
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 506
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f36d3cecc71be0800000000000000
+      internalID: -1506510235317832429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_75
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 506
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5381fde00ae85fdc0800000000000000
+      internalID: -3605819108544800715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_76
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 506
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a096b868d769120800000000000000
+      internalID: 2420259866576226885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 506
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311284040bb92d8f0800000000000000
+      internalID: -517179825899167469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_78
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 506
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acbfb0563b8f7a60800000000000000
+      internalID: 7674005355461852325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_79
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 506
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dfeb1a877708280800000000000000
+      internalID: -9043096691766526606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 506
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bcc0b5cbc78ae10800000000000000
+      internalID: 2209152765648489300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_81
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 506
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c5ad5fde23ef690800000000000000
+      internalID: -7566554326322488312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_82
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 505
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ac525705df80c30800000000000000
+      internalID: 4325985964093983250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_83
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 505
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ee7c6765543d20800000000000000
+      internalID: 3257322333185959594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_84
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 505
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225ceb8513b2aed10800000000000000
+      internalID: 2155582862592492834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_85
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 505
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f823dbb74c6770800000000000000
+      internalID: 8605331860025307879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_86
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 505
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d77311022acdfc00800000000000000
+      internalID: 936126544958683092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_87
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 505
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe826b525d3c0e0800000000000000
+      internalID: -2250721030808473767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 465
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb62a12e73b145d50800000000000000
+      internalID: 6725030070401509051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 465
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142d26be521b5d840800000000000000
+      internalID: 5248295717191209537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_90
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 465
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f8bcb1ff59b0170800000000000000
+      internalID: 8145769273945198428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_91
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 465
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0d7b27b79259ab0800000000000000
+      internalID: -5002046200942702339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 465
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb215d89d63bceb0800000000000000
+      internalID: -4698601478224270408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243f6e8118f086810800000000000000
+      internalID: 1758672701631165250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_94
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 380
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dd3702df96d8f80800000000000000
+      internalID: -8102703618677547721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_95
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 380
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01d3216faf1c3030800000000000000
+      internalID: 3475687850532655370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 380
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e707579c11956fb10800000000000000
+      internalID: 2014895816224108670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_97
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 380
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85331b6de0cd4fc90800000000000000
+      internalID: -7136837553185803432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_98
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 380
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0cb40d5ac7e6cc0800000000000000
+      internalID: -3715895590928006962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_99
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 380
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179c029eb0f67740800000000000000
+      internalID: 5149567925229491987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_100
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 380
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05efe6594d9f3480800000000000000
+      internalID: -8917235798853556982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_101
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 380
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020f6d63f0dfa3200800000000000000
+      internalID: 160718978511466528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_102
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50e673e41e7839d0800000000000000
+      internalID: -2794344940602728355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_103
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe256e28b9e2ab60800000000000000
+      internalID: 7756018485547052730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_104
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56988b4d62bf4e9b0800000000000000
+      internalID: -5051636737806661275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c42ae5db58733b0800000000000000
+      internalID: -5532806568818357246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_106
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65aeeeea69fdb870800000000000000
+      internalID: 8700384292820133228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_107
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6b26025fc097310800000000000000
+      internalID: 1403167005852481204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_108
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f5350ffaab1ba00800000000000000
+      internalID: 770602276071104398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_109
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da641cd0632b3f80800000000000000
+      internalID: -8125862203743769895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_110
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845ef82bc7bb1db70800000000000000
+      internalID: 8922118481043776840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_111
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbaa6608c1081f20800000000000000
+      internalID: 3393464277836409854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_112
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f865501c236e62350800000000000000
+      internalID: 5991729459924129423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_113
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28d013c7c1388e0800000000000000
+      internalID: -1692477715236683080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_114
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19332dd96dbade140800000000000000
+      internalID: 4750642120204891025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_115
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5260a3783532bcbf0800000000000000
+      internalID: -303109708259391963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_116
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 338
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86688eae1f2bfe3b0800000000000000
+      internalID: -5480965469388634520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_117
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 296
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b3107b57d049e00800000000000000
+      internalID: 1050479412316814238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_118
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 296
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157e581705983d630800000000000000
+      internalID: 3950652276729046865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_119
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 296
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfba088360d9d5d0800000000000000
+      internalID: -3037167347781943336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_120
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 296
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2edbfbfb333d4f20800000000000000
+      internalID: 3408436825713008175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_121
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 259
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667411a699d3247a0800000000000000
+      internalID: -6394480791793875098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_122
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 258
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55e4ee9931ced810800000000000000
+      internalID: 1792082154963133786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_123
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 257
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead58faae2c639340800000000000000
+      internalID: 4869354569810337198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_124
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 257
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa17330084c12180800000000000000
+      internalID: -9141809714496595281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_125
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 258
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8215bb367da24480800000000000000
+      internalID: -8916373588920692082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_126
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 257
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727f6a8a8096aeae0800000000000000
+      internalID: -1519286438373951705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_127
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 257
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b99f9cd51ed7780800000000000000
+      internalID: -8683536713563661530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_128
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 258
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865cf595eab6ff950800000000000000
+      internalID: 6485020385004733800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_129
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0595749875a6710e0800000000000000
+      internalID: -2299252160551495344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_130
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 216
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15a3134da8c7180800000000000000
+      internalID: -9116258901741121086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_131
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 216
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868da9ef793745460800000000000000
+      internalID: 7229530398485305448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a30eaf6da406f710800000000000000
+      internalID: 1726572650092692386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 174
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15191188ce00175f0800000000000000
+      internalID: -760825846153768623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_134
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 174
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1b9f5bcf659fd0800000000000000
+      internalID: -2335837912448689631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 174
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd984f6592a36690800000000000000
+      internalID: -7610060182625149455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_136
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 174
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466cd5d86a694a2a0800000000000000
+      internalID: -6727086301304207772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_137
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 174
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf200a5f46a605b0800000000000000
+      internalID: -5402447843241742370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_138
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 134
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee81509a386d9a30800000000000000
+      internalID: 4223646626282049256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_139
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 134
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5938c52aacb0810800000000000000
+      internalID: 1732701280339727831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 91
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346edb6e8d4557730800000000000000
+      internalID: 3996193534922057283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_141
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 91
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a88090b379f1690800000000000000
+      internalID: -7629212963931911674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_142
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 91
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3fa1745683a590800000000000000
+      internalID: -7664134443611767523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_143
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 92
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8456b5be0c1add0800000000000000
+      internalID: -2476486202993850205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_144
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b8458dbada11c0800000000000000
+      internalID: -4532069567475174595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_145
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 48
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3c49f8451606350800000000000000
+      internalID: 6007908918726280163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_146
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 48
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2489971cf06383940800000000000000
+      internalID: 5276026404762916930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_147
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885e28e5d93a25a0800000000000000
+      internalID: -6545355517543425910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_148
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 48
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41480b04404133be0800000000000000
+      internalID: -1498832242486508524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_149
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ca52cdafd317830800000000000000
+      internalID: 4067100086136843294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Goomba_150
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547c67fbdf8eb0a0800000000000000
+      internalID: -6863890607154367394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

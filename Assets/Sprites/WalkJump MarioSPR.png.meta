@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: cb233f4e1dffabf438f53cd098be927f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5291651897919813120
+    second: WalkJump MarioSPR_0
+  - first:
+      213: -8844742764424134215
+    second: WalkJump MarioSPR_1
+  - first:
+      213: -5960104401889673870
+    second: WalkJump MarioSPR_2
+  - first:
+      213: -8054001359314900110
+    second: WalkJump MarioSPR_3
+  - first:
+      213: 4249689053376017922
+    second: WalkJump MarioSPR_4
+  - first:
+      213: -189097267046015962
+    second: WalkJump MarioSPR_5
+  - first:
+      213: -3882640409338884238
+    second: WalkJump MarioSPR_6
+  - first:
+      213: 7399876200831231115
+    second: WalkJump MarioSPR_7
+  - first:
+      213: 8549412740789420386
+    second: WalkJump MarioSPR_8
+  - first:
+      213: -9105439628915260138
+    second: WalkJump MarioSPR_9
+  - first:
+      213: 3088005027365490998
+    second: WalkJump MarioSPR_10
+  - first:
+      213: -6327271655992239840
+    second: WalkJump MarioSPR_11
+  - first:
+      213: 4547582264907551810
+    second: WalkJump MarioSPR_12
+  - first:
+      213: -8353897438586944119
+    second: WalkJump MarioSPR_13
+  - first:
+      213: 5836637833243233158
+    second: WalkJump MarioSPR_14
+  - first:
+      213: 5984556673235456483
+    second: WalkJump MarioSPR_15
+  - first:
+      213: 2261613939992244248
+    second: WalkJump MarioSPR_16
+  - first:
+      213: -1780175209983795403
+    second: WalkJump MarioSPR_17
+  - first:
+      213: -5556686047693527312
+    second: WalkJump MarioSPR_18
+  - first:
+      213: -4985467264152384333
+    second: WalkJump MarioSPR_19
+  - first:
+      213: 847443699836876677
+    second: WalkJump MarioSPR_20
+  - first:
+      213: 3842207500824645901
+    second: WalkJump MarioSPR_21
+  - first:
+      213: 6782471846227557079
+    second: WalkJump MarioSPR_22
+  - first:
+      213: -2904583591985555791
+    second: WalkJump MarioSPR_23
+  - first:
+      213: 8191576517900317203
+    second: WalkJump MarioSPR_24
+  - first:
+      213: -2055424388790592785
+    second: WalkJump MarioSPR_25
+  - first:
+      213: -7434175459715364570
+    second: WalkJump MarioSPR_26
+  - first:
+      213: 8788895329572632970
+    second: WalkJump MarioSPR_27
+  - first:
+      213: -8172542149936793960
+    second: WalkJump MarioSPR_28
+  - first:
+      213: 8685086107864529184
+    second: WalkJump MarioSPR_29
+  - first:
+      213: -7358831099308292445
+    second: WalkJump MarioSPR_30
+  - first:
+      213: -7684613188179762356
+    second: WalkJump MarioSPR_31
+  - first:
+      213: -4448928753843468767
+    second: WalkJump MarioSPR_32
+  - first:
+      213: -6662339185191725630
+    second: WalkJump MarioSPR_33
+  - first:
+      213: 341582690886442208
+    second: WalkJump MarioSPR_34
+  - first:
+      213: -5756850843132541389
+    second: WalkJump MarioSPR_35
+  - first:
+      213: 6582401270827413844
+    second: WalkJump MarioSPR_36
+  - first:
+      213: 4530907667662126564
+    second: WalkJump MarioSPR_37
+  - first:
+      213: 3021219393920263792
+    second: WalkJump MarioSPR_38
+  - first:
+      213: 4330125922590780187
+    second: WalkJump MarioSPR_39
+  - first:
+      213: -6909622950035253443
+    second: WalkJump MarioSPR_40
+  - first:
+      213: 1489126466352817751
+    second: WalkJump MarioSPR_41
+  - first:
+      213: -3867479325085716048
+    second: WalkJump MarioSPR_42
+  - first:
+      213: -3695821535814864723
+    second: WalkJump MarioSPR_43
+  - first:
+      213: -2171588456825981511
+    second: WalkJump MarioSPR_44
+  - first:
+      213: -8599741042950419135
+    second: WalkJump MarioSPR_45
+  - first:
+      213: 4556419382640343032
+    second: WalkJump MarioSPR_46
+  - first:
+      213: 2031681225663436549
+    second: WalkJump MarioSPR_47
+  - first:
+      213: 3722170633107605010
+    second: WalkJump MarioSPR_48
+  - first:
+      213: -5744149982443565346
+    second: WalkJump MarioSPR_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00638826d59bf6940800000000000000
+      internalID: 5291651897919813120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 209
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b10bc43159214580800000000000000
+      internalID: -8844742764424134215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 209
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dbf1ddf94794da0800000000000000
+      internalID: -5960104401889673870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 209
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ba5858f607a3090800000000000000
+      internalID: -8054001359314900110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206f750adade9fa30800000000000000
+      internalID: 4249689053376017922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 209
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c99b99901306df0800000000000000
+      internalID: -189097267046015962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 209
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f47ca6e171e1ac0800000000000000
+      internalID: -3882640409338884238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 209
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84a96cc234a1b660800000000000000
+      internalID: 7399876200831231115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 170
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c3fc479d95a670800000000000000
+      internalID: 8549412740789420386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 170
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615cdb276eaf2a180800000000000000
+      internalID: -9105439628915260138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 170
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6319db0263ccada20800000000000000
+      internalID: 3088005027365490998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 170
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0295f23c3f30138a0800000000000000
+      internalID: -6327271655992239840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 170
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445eaec9f14c1f30800000000000000
+      internalID: 4547582264907551810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 170
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985cafa5a8ef01c80800000000000000
+      internalID: -8353897438586944119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 170
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b811d7f27eff050800000000000000
+      internalID: 5836637833243233158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 170
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e19466369a6d0350800000000000000
+      internalID: 5984556673235456483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 131
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8103f4855edd26f10800000000000000
+      internalID: 2261613939992244248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 131
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f95fa041c8b47e0800000000000000
+      internalID: -1780175209983795403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 131
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6abdeea7fa2e2b0800000000000000
+      internalID: -5556686047693527312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 131
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bccbd8ffef00dab0800000000000000
+      internalID: -4985467264152384333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 131
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5877be71e89b2cb00800000000000000
+      internalID: 847443699836876677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 131
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d019ef77d53425530800000000000000
+      internalID: 3842207500824645901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da3b75853e202e50800000000000000
+      internalID: 6782471846227557079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 131
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6d54bbc98d0b7d0800000000000000
+      internalID: -2904583591985555791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 89
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31231e331735ea170800000000000000
+      internalID: 8191576517900317203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 89
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea5673986aa973e0800000000000000
+      internalID: -2055424388790592785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 89
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294dbdaec084d890800000000000000
+      internalID: -7434175459715364570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 89
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8934479cbd68f970800000000000000
+      internalID: 8788895329572632970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 89
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8963c11f63c459e80800000000000000
+      internalID: -8172542149936793960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 89
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029f1feaccf978870800000000000000
+      internalID: 8685086107864529184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 89
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c1ab9a1e20e990800000000000000
+      internalID: -7358831099308292445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 89
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43634a2505ca5590800000000000000
+      internalID: -7684613188179762356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126832caeda3242c0800000000000000
+      internalID: -4448928753843468767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 48
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c55b754fcd9a83a0800000000000000
+      internalID: -6662339185191725630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec55b7c5ab8db400800000000000000
+      internalID: 341582690886442208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 48
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3364d26c8ae8b10b0800000000000000
+      internalID: -5756850843132541389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 48
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4517fbca413695b50800000000000000
+      internalID: 6582401270827413844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 48
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed3819948401ee30800000000000000
+      internalID: 4530907667662126564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 48
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076632b18078de920800000000000000
+      internalID: 3021219393920263792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 48
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bebb8a592b71c30800000000000000
+      internalID: 4330125922590780187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37134329861c10a0800000000000000
+      internalID: -6909622950035253443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756a794a1a07aa410800000000000000
+      internalID: 1489126466352817751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 6
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1391c6b04f35ac0800000000000000
+      internalID: -3867479325085716048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0348cf4edc5bcc0800000000000000
+      internalID: -3695821535814864723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57c88ddc7fcd1e0800000000000000
+      internalID: -2171588456825981511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dc796b51597a880800000000000000
+      internalID: -8599741042950419135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77bfd9947ab3f30800000000000000
+      internalID: 4556419382640343032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 6
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507df787f4bf13c10800000000000000
+      internalID: 2031681225663436549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21605cb487ec7a330800000000000000
+      internalID: 3722170633107605010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump MarioSPR_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede82e7560ea840b0800000000000000
+      internalID: -5744149982443565346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ddc28da5f69fe084e822517cf748a424
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

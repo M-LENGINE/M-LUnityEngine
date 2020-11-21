@@ -1,0 +1,1256 @@
+fileFormatVersion: 2
+guid: d95950b12e653524e9da9139cae30935
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7970776470350407500
+    second: luigi idle bt_0
+  - first:
+      213: 2714195277170305235
+    second: luigi idle bt_1
+  - first:
+      213: -3837225969127823554
+    second: luigi idle bt_2
+  - first:
+      213: 229837472496916126
+    second: luigi idle bt_3
+  - first:
+      213: 3088339731006943402
+    second: luigi idle bt_4
+  - first:
+      213: -7242549129009528655
+    second: luigi idle bt_5
+  - first:
+      213: 6769918770313618499
+    second: luigi idle bt_6
+  - first:
+      213: 8886498500954217439
+    second: luigi idle bt_7
+  - first:
+      213: 5131243039298942216
+    second: luigi idle bt_8
+  - first:
+      213: -1846616507699549079
+    second: luigi idle bt_9
+  - first:
+      213: 7787671912746839242
+    second: luigi idle bt_10
+  - first:
+      213: 4070500596140611424
+    second: luigi idle bt_11
+  - first:
+      213: -6255692473817403388
+    second: luigi idle bt_12
+  - first:
+      213: 1113877519391010746
+    second: luigi idle bt_13
+  - first:
+      213: 5268462817047925868
+    second: luigi idle bt_14
+  - first:
+      213: 2704894685627128945
+    second: luigi idle bt_15
+  - first:
+      213: 6607654371826487739
+    second: luigi idle bt_16
+  - first:
+      213: -7849760678109577451
+    second: luigi idle bt_17
+  - first:
+      213: -5777961579725163354
+    second: luigi idle bt_18
+  - first:
+      213: 8685751700176156948
+    second: luigi idle bt_19
+  - first:
+      213: 5409600814366612338
+    second: luigi idle bt_20
+  - first:
+      213: -1825096818235799601
+    second: luigi idle bt_21
+  - first:
+      213: 2509004780573424733
+    second: luigi idle bt_22
+  - first:
+      213: 1922905067122913223
+    second: luigi idle bt_23
+  - first:
+      213: 7795190553895743166
+    second: luigi idle bt_24
+  - first:
+      213: -4511091158073034506
+    second: luigi idle bt_25
+  - first:
+      213: -3584644251636416305
+    second: luigi idle bt_26
+  - first:
+      213: -6158254431524208479
+    second: luigi idle bt_27
+  - first:
+      213: 3236969398409455903
+    second: luigi idle bt_28
+  - first:
+      213: -6932636094339882243
+    second: luigi idle bt_29
+  - first:
+      213: -5694788825574141809
+    second: luigi idle bt_30
+  - first:
+      213: 9009227935516457795
+    second: luigi idle bt_31
+  - first:
+      213: 3272286300507392704
+    second: luigi idle bt_32
+  - first:
+      213: 3588626542734537591
+    second: luigi idle bt_33
+  - first:
+      213: 644629978111435045
+    second: luigi idle bt_34
+  - first:
+      213: -7765933059938309864
+    second: luigi idle bt_35
+  - first:
+      213: -7727698105102591313
+    second: luigi idle bt_36
+  - first:
+      213: -1427912193909234985
+    second: luigi idle bt_37
+  - first:
+      213: 4745610993727401618
+    second: luigi idle bt_38
+  - first:
+      213: 3440914977390773293
+    second: luigi idle bt_39
+  - first:
+      213: -5666898919620181437
+    second: luigi idle bt_40
+  - first:
+      213: 8523882931534219291
+    second: luigi idle bt_41
+  - first:
+      213: -3995936279941263034
+    second: luigi idle bt_42
+  - first:
+      213: 5583883335662678059
+    second: luigi idle bt_43
+  - first:
+      213: 6455376572886902455
+    second: luigi idle bt_44
+  - first:
+      213: -5896399920420639593
+    second: luigi idle bt_45
+  - first:
+      213: -460195682175585804
+    second: luigi idle bt_46
+  - first:
+      213: -515653535316700359
+    second: luigi idle bt_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luigi idle bt_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 214
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47274308f2ed9e60800000000000000
+      internalID: 7970776470350407500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 214
+        width: 23
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d867c26932caa520800000000000000
+      internalID: 2714195277170305235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 214
+        width: 23
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376b33cf4f6fbac0800000000000000
+      internalID: -3837225969127823554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 214
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e969048a6fb803300800000000000000
+      internalID: 229837472496916126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 214
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0f4646f9cfbda20800000000000000
+      internalID: 3088339731006943402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 214
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0821990fb4d7b90800000000000000
+      internalID: -7242549129009528655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 214
+        width: 25
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344eac6c04593fd50800000000000000
+      internalID: 6769918770313618499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 214
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbda6ecd4f235b70800000000000000
+      internalID: 8886498500954217439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 214
+        width: 27
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805fb959b56d53740800000000000000
+      internalID: 5131243039298942216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_9
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 214
+        width: 26
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c223ee1108f56e0800000000000000
+      internalID: -1846616507699549079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_10
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 215
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accef82085e531c60800000000000000
+      internalID: 7787671912746839242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_11
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 215
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0671afac9b25d7830800000000000000
+      internalID: 4070500596140611424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4007702d6d05f29a0800000000000000
+      internalID: -6255692473817403388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf289ac3b9457f00800000000000000
+      internalID: 1113877519391010746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64de72c4075d1940800000000000000
+      internalID: 5268462817047925868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 144
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c95aba267b98520800000000000000
+      internalID: 2704894685627128945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1564f64aa13bb50800000000000000
+      internalID: 6607654371826487739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 144
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ff279c04c001390800000000000000
+      internalID: -7849760678109577451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 144
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a470a26e8e80dfa0800000000000000
+      internalID: -5777961579725163354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 144
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419be38f62df98870800000000000000
+      internalID: 8685751700176156948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b5cf48743c21b40800000000000000
+      internalID: 5409600814366612338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 144
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc70c541d14fba6e0800000000000000
+      internalID: -1825096818235799601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_22
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 145
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cf5ddfd86c1d220800000000000000
+      internalID: 2509004780573424733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_23
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 145
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe8a678f78faa10800000000000000
+      internalID: 1922905067122913223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 74
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeaf6112841e2c60800000000000000
+      internalID: 7795190553895743166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 74
+        width: 23
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8b6a51e726561c0800000000000000
+      internalID: -4511091158073034506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 74
+        width: 23
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0c01f9b09c04ec0800000000000000
+      internalID: -3584644251636416305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 74
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0468ce83c798aa0800000000000000
+      internalID: -6158254431524208479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_28
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 74
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19610584860cec20800000000000000
+      internalID: 3236969398409455903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 74
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2e1dfe3345acf90800000000000000
+      internalID: -6932636094339882243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 74
+        width: 25
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801ac44cbb08f0b0800000000000000
+      internalID: -5694788825574141809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_31
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 74
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bfbfc0315370d70800000000000000
+      internalID: 9009227935516457795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 74
+        width: 27
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cace119d0f796d20800000000000000
+      internalID: 3272286300507392704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_33
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 74
+        width: 26
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773fa37c3dc5dc130800000000000000
+      internalID: 3588626542734537591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_34
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 74
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52166e8bc8f22f800800000000000000
+      internalID: 644629978111435045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_35
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 74
+        width: 23
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8192ae4170dd93490800000000000000
+      internalID: -7765933059938309864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 23
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa96e93483b1c490800000000000000
+      internalID: -7727698105102591313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2679fcc690f2ce0800000000000000
+      internalID: -1427912193909234985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e6f433e0ccbd140800000000000000
+      internalID: 4745610993727401618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 5
+        width: 25
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c2b1f0f590cf20800000000000000
+      internalID: 3440914977390773293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_40
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3428ef505712b51b0800000000000000
+      internalID: -5666898919620181437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18cc116d5aea4670800000000000000
+      internalID: 8523882931534219291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_42
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6415101ff159b88c0800000000000000
+      internalID: -3995936279941263034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_43
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20b5612f40fd7d40800000000000000
+      internalID: 5583883335662678059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b66d4e7aca169950800000000000000
+      internalID: 6455376572886902455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cafa94387cb2ea0800000000000000
+      internalID: -5896399920420639593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_46
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 5
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f171cc177e0d99f0800000000000000
+      internalID: -460195682175585804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi idle bt_47
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 5
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933164877d708d8f0800000000000000
+      internalID: -515653535316700359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0005d78b8d1d0a34b9007b3db8a8730b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: c3660aba915839d46a949ac80e2322be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2104556076054114725
+    second: WalkJump LuigiSPR_0
+  - first:
+      213: -8843754926472957763
+    second: WalkJump LuigiSPR_1
+  - first:
+      213: 4111295217371516632
+    second: WalkJump LuigiSPR_2
+  - first:
+      213: 4210438040400680117
+    second: WalkJump LuigiSPR_3
+  - first:
+      213: 6649879792142685495
+    second: WalkJump LuigiSPR_4
+  - first:
+      213: 3585249915422105544
+    second: WalkJump LuigiSPR_5
+  - first:
+      213: -1175712729832586670
+    second: WalkJump LuigiSPR_6
+  - first:
+      213: -5158233011949861513
+    second: WalkJump LuigiSPR_7
+  - first:
+      213: -2351626431006712118
+    second: WalkJump LuigiSPR_8
+  - first:
+      213: -2787515006812849602
+    second: WalkJump LuigiSPR_9
+  - first:
+      213: 1375583750909494023
+    second: WalkJump LuigiSPR_10
+  - first:
+      213: -8761101306856828353
+    second: WalkJump LuigiSPR_11
+  - first:
+      213: -8324014848161498713
+    second: WalkJump LuigiSPR_12
+  - first:
+      213: -4331978374889359933
+    second: WalkJump LuigiSPR_13
+  - first:
+      213: -8681941547471174860
+    second: WalkJump LuigiSPR_14
+  - first:
+      213: -840817678356784192
+    second: WalkJump LuigiSPR_15
+  - first:
+      213: 934354026062146973
+    second: WalkJump LuigiSPR_16
+  - first:
+      213: 3588932920867902178
+    second: WalkJump LuigiSPR_17
+  - first:
+      213: -8430412616453052770
+    second: WalkJump LuigiSPR_18
+  - first:
+      213: -6515596232262777299
+    second: WalkJump LuigiSPR_19
+  - first:
+      213: 7659254311189362249
+    second: WalkJump LuigiSPR_20
+  - first:
+      213: 9040722709764098177
+    second: WalkJump LuigiSPR_21
+  - first:
+      213: -444196549833168342
+    second: WalkJump LuigiSPR_22
+  - first:
+      213: -4702976446169053047
+    second: WalkJump LuigiSPR_23
+  - first:
+      213: 6802462981186139525
+    second: WalkJump LuigiSPR_24
+  - first:
+      213: -6723260775989815791
+    second: WalkJump LuigiSPR_25
+  - first:
+      213: 5450727556890564833
+    second: WalkJump LuigiSPR_26
+  - first:
+      213: -7476067491818733379
+    second: WalkJump LuigiSPR_27
+  - first:
+      213: -7205051273239931637
+    second: WalkJump LuigiSPR_28
+  - first:
+      213: -3410503943707855953
+    second: WalkJump LuigiSPR_29
+  - first:
+      213: 167242137843200699
+    second: WalkJump LuigiSPR_30
+  - first:
+      213: -8566897962961727220
+    second: WalkJump LuigiSPR_31
+  - first:
+      213: -5613720525804805428
+    second: WalkJump LuigiSPR_32
+  - first:
+      213: 9123239947754014264
+    second: WalkJump LuigiSPR_33
+  - first:
+      213: -2444150901454459063
+    second: WalkJump LuigiSPR_34
+  - first:
+      213: -8774814299250232052
+    second: WalkJump LuigiSPR_35
+  - first:
+      213: 1151954470166418547
+    second: WalkJump LuigiSPR_36
+  - first:
+      213: 7999699222206763430
+    second: WalkJump LuigiSPR_37
+  - first:
+      213: 6515779824582529358
+    second: WalkJump LuigiSPR_38
+  - first:
+      213: 9092519729363710194
+    second: WalkJump LuigiSPR_39
+  - first:
+      213: 7667476400494378671
+    second: WalkJump LuigiSPR_40
+  - first:
+      213: -2945144248590239436
+    second: WalkJump LuigiSPR_41
+  - first:
+      213: -703080471597059025
+    second: WalkJump LuigiSPR_42
+  - first:
+      213: 6799257222235381226
+    second: WalkJump LuigiSPR_43
+  - first:
+      213: -4032466198769326532
+    second: WalkJump LuigiSPR_44
+  - first:
+      213: 2913834710950701288
+    second: WalkJump LuigiSPR_45
+  - first:
+      213: 3222949558058266486
+    second: WalkJump LuigiSPR_46
+  - first:
+      213: -7509594822121082032
+    second: WalkJump LuigiSPR_47
+  - first:
+      213: -5070004026370755064
+    second: WalkJump LuigiSPR_48
+  - first:
+      213: -940457454937995811
+    second: WalkJump LuigiSPR_49
+  - first:
+      213: 917736061284766580
+    second: WalkJump LuigiSPR_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 16
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1781bc992e43d10800000000000000
+      internalID: 2104556076054114725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 225
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f7f620cba44580800000000000000
+      internalID: -8843754926472957763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 225
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de0136b7314e0930800000000000000
+      internalID: 4111295217371516632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 225
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4dfd2071b7e6a30800000000000000
+      internalID: 4210438040400680117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 225
+        width: 16
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73596b9307e194c50800000000000000
+      internalID: 6649879792142685495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 225
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfdbb77dcd51c130800000000000000
+      internalID: 3585249915422105544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 225
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2528c6c50870fafe0800000000000000
+      internalID: -1175712729832586670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 225
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7750906b7664a68b0800000000000000
+      internalID: -5158233011949861513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 15
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acedc6f68385d5fd0800000000000000
+      internalID: -2351626431006712118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 180
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a79d4ced1c059d0800000000000000
+      internalID: -2787515006812849602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 180
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70382cf122e071310800000000000000
+      internalID: 1375583750909494023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 180
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32969b97c05a6680800000000000000
+      internalID: -8761101306856828353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 180
+        width: 15
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b14e19982b7c80800000000000000
+      internalID: -8324014848161498713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 180
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5bb0eae98b1e3c0800000000000000
+      internalID: -4331978374889359933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 180
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4338646592c838780800000000000000
+      internalID: -8681941547471174860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 180
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbdca0c6c0d454f0800000000000000
+      internalID: -840817678356784192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 15
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9de3e9490e77fc00800000000000000
+      internalID: 934354026062146973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 134
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2590ff9737ec130800000000000000
+      internalID: 3588932920867902178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96285e3468210b80800000000000000
+      internalID: -8430412616453052770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 134
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d268a147fb3f395a0800000000000000
+      internalID: -6515596232262777299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 134
+        width: 15
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94632de27332b4a60800000000000000
+      internalID: 7659254311189362249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 134
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188cb4c9769177d70800000000000000
+      internalID: 9040722709764098177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 134
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6db46795e5d9f0800000000000000
+      internalID: -444196549833168342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 134
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888013f6dbabbeb0800000000000000
+      internalID: -4702976446169053047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 14
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58538575a04376e50800000000000000
+      internalID: 6802462981186139525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 87
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1165fc212fd22b2a0800000000000000
+      internalID: -6723260775989815791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 87
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e815e375dfd4ab40800000000000000
+      internalID: 5450727556890564833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 87
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db08c41e93caf3890800000000000000
+      internalID: -7476067491818733379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 87
+        width: 14
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05de0e7a04820c90800000000000000
+      internalID: -7205051273239931637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 87
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3793a9bb47ba0d0800000000000000
+      internalID: -3410503943707855953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 87
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2fe9996d9225200800000000000000
+      internalID: 167242137843200699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 87
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0116aa21b34c1980800000000000000
+      internalID: -8566897962961727220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 14
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2e51facee0812b0800000000000000
+      internalID: -5613720525804805428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836088e35624c9e70800000000000000
+      internalID: 9123239947754014264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 14
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2b5d64b1a41ed0800000000000000
+      internalID: -2444150901454459063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 43
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05fb23c2e8993680800000000000000
+      internalID: -8774814299250232052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 43
+        width: 14
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37451bfbc709cff00800000000000000
+      internalID: 1151954470166418547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a15a91fe04a40f60800000000000000
+      internalID: 7999699222206763430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 44
+        width: 14
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4116e67a33bc6a50800000000000000
+      internalID: 6515779824582529358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 43
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f074f5058e1f2e70800000000000000
+      internalID: 9092519729363710194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae78278929586a60800000000000000
+      internalID: 7667476400494378671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4397e72f8eeb027d0800000000000000
+      internalID: -2945144248590239436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2471f149082e36f0800000000000000
+      internalID: -703080471597059025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed59db6b60db5e50800000000000000
+      internalID: 6799257222235381226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36a59d6b5dc908c0800000000000000
+      internalID: -4032466198769326532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e86b604b35007820800000000000000
+      internalID: 2913834710950701288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fa0111c873abc20800000000000000
+      internalID: 3222949558058266486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0533c5cfb4f88c790800000000000000
+      internalID: -7509594822121082032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806fe56333ab3a9b0800000000000000
+      internalID: -5070004026370755064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkJump LuigiSPR_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd58d007de2d2f2f0800000000000000
+      internalID: -940457454937995811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 149e3ba1ff7c73a41a6cf00d98ed0e3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
