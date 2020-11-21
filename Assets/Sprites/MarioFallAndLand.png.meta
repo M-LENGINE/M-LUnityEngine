@@ -1,0 +1,1256 @@
+fileFormatVersion: 2
+guid: 8976cb8e0faef8c429b4b81f0a8c5a2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4044181489595673034
+    second: MarioFallAndLand_0
+  - first:
+      213: -1162195428969762806
+    second: MarioFallAndLand_1
+  - first:
+      213: 2846102575337658923
+    second: MarioFallAndLand_2
+  - first:
+      213: 7792038934053803044
+    second: MarioFallAndLand_3
+  - first:
+      213: 1076484436407751124
+    second: MarioFallAndLand_4
+  - first:
+      213: -56489074367805673
+    second: MarioFallAndLand_5
+  - first:
+      213: 8286477056157003718
+    second: MarioFallAndLand_6
+  - first:
+      213: -5009465262474361909
+    second: MarioFallAndLand_7
+  - first:
+      213: 7091759432318033764
+    second: MarioFallAndLand_8
+  - first:
+      213: -4356499471303274920
+    second: MarioFallAndLand_9
+  - first:
+      213: -6866527364646578115
+    second: MarioFallAndLand_10
+  - first:
+      213: 3214390104249200768
+    second: MarioFallAndLand_11
+  - first:
+      213: -5167557303198735390
+    second: MarioFallAndLand_12
+  - first:
+      213: 3097120084022883649
+    second: MarioFallAndLand_13
+  - first:
+      213: 8282436858341264795
+    second: MarioFallAndLand_14
+  - first:
+      213: -1688618503247834496
+    second: MarioFallAndLand_15
+  - first:
+      213: -3943637166229839617
+    second: MarioFallAndLand_16
+  - first:
+      213: 3998281997773766508
+    second: MarioFallAndLand_17
+  - first:
+      213: -7219358224984980152
+    second: MarioFallAndLand_18
+  - first:
+      213: 5151608497654742961
+    second: MarioFallAndLand_19
+  - first:
+      213: -7809011874461280178
+    second: MarioFallAndLand_20
+  - first:
+      213: -8785481823169542817
+    second: MarioFallAndLand_21
+  - first:
+      213: 2359568520105464856
+    second: MarioFallAndLand_22
+  - first:
+      213: -129743120573434494
+    second: MarioFallAndLand_23
+  - first:
+      213: 3323098925588546008
+    second: MarioFallAndLand_24
+  - first:
+      213: -1879763006417370951
+    second: MarioFallAndLand_25
+  - first:
+      213: 8089993262647209806
+    second: MarioFallAndLand_26
+  - first:
+      213: -8364555654169073527
+    second: MarioFallAndLand_27
+  - first:
+      213: 1515625693662302149
+    second: MarioFallAndLand_28
+  - first:
+      213: 6234372262275997406
+    second: MarioFallAndLand_29
+  - first:
+      213: 4492442748276703052
+    second: MarioFallAndLand_30
+  - first:
+      213: -6412061749592639830
+    second: MarioFallAndLand_31
+  - first:
+      213: -5305933047847172354
+    second: MarioFallAndLand_32
+  - first:
+      213: -9150522971579488374
+    second: MarioFallAndLand_33
+  - first:
+      213: -5862049353243006179
+    second: MarioFallAndLand_34
+  - first:
+      213: 7840282875894571155
+    second: MarioFallAndLand_35
+  - first:
+      213: -1111734125555197618
+    second: MarioFallAndLand_36
+  - first:
+      213: -7354541564803918514
+    second: MarioFallAndLand_37
+  - first:
+      213: 5104066137048120997
+    second: MarioFallAndLand_38
+  - first:
+      213: 6483434415031573083
+    second: MarioFallAndLand_39
+  - first:
+      213: 5207885897662892082
+    second: MarioFallAndLand_40
+  - first:
+      213: 8529214017794555786
+    second: MarioFallAndLand_41
+  - first:
+      213: 3338115607544561945
+    second: MarioFallAndLand_42
+  - first:
+      213: -889245349068643411
+    second: MarioFallAndLand_43
+  - first:
+      213: -3544434597700303891
+    second: MarioFallAndLand_44
+  - first:
+      213: 993329832789825189
+    second: MarioFallAndLand_45
+  - first:
+      213: 5594811260921703344
+    second: MarioFallAndLand_46
+  - first:
+      213: -5791369797161037555
+    second: MarioFallAndLand_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarioFallAndLand_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 961
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac96f8643a1df1830800000000000000
+      internalID: 4044181489595673034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 961
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00bca83a6d0fdfe0800000000000000
+      internalID: -1162195428969762806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 899
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a535586336f7720800000000000000
+      internalID: 2846102575337658923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 899
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4245a446022e22c60800000000000000
+      internalID: 7792038934053803044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 836
+        width: 29
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1125634e070fe00800000000000000
+      internalID: 1076484436407751124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 835
+        width: 25
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717cd947c7f473ff0800000000000000
+      internalID: -56489074367805673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa9ab9afa7ff270800000000000000
+      internalID: 8286477056157003718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 769
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38e8392edca7ab0800000000000000
+      internalID: -5009465262474361909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f97d341adfa6260800000000000000
+      internalID: 7091759432318033764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 705
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8ac400da9a83c0800000000000000
+      internalID: -4356499471303274920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ddb50eb135b0a0800000000000000
+      internalID: -6866527364646578115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 642
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080fd4de4cecb9c20800000000000000
+      internalID: 3214390104249200768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32d5af2062948b0800000000000000
+      internalID: -5167557303198735390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 576
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14579e2ae4e2bfa20800000000000000
+      internalID: 3097120084022883649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d8800c07021f270800000000000000
+      internalID: 8282436858341264795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 513
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d2c00b62d098e0800000000000000
+      internalID: -1688618503247834496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 451
+        width: 29
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a7df34e26549c0800000000000000
+      internalID: -3943637166229839617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 451
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ff42d0b40cc7730800000000000000
+      internalID: 3998281997773766508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 451
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845c975b1ffafcb90800000000000000
+      internalID: -7219358224984980152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 450
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf389c52a03e7740800000000000000
+      internalID: 5151608497654742961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 385
+        width: 19
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489de7f211d0a390800000000000000
+      internalID: -7809011874461280178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 385
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55045d44d2b31680800000000000000
+      internalID: -8785481823169542817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 385
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8149418411fdeb020800000000000000
+      internalID: 2359568520105464856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 384
+        width: 19
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2857b2ab15f033ef0800000000000000
+      internalID: -129743120573434494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 319
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10035cdd40e1e20800000000000000
+      internalID: 3323098925588546008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 319
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0829c418db9e5e0800000000000000
+      internalID: -1879763006417370951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 319
+        width: 20
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fe36f720e654070800000000000000
+      internalID: 8089993262647209806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 319
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988644923f02beb80800000000000000
+      internalID: -8364555654169073527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf423bc985980510800000000000000
+      internalID: 1515625693662302149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 254
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede528a9a80f48650800000000000000
+      internalID: 6234372262275997406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 254
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fffc8a0ec585e30800000000000000
+      internalID: 4492442748276703052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 254
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa639a1bfc7c307a0800000000000000
+      internalID: -6412061749592639830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef64019410a8d56b0800000000000000
+      internalID: -5305933047847172354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87e3f1c6dfc20180800000000000000
+      internalID: -9150522971579488374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b6424fb21d5aea0800000000000000
+      internalID: -5862049353243006179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390264c6cb74ecc60800000000000000
+      internalID: 7840282875894571155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 126
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e495a99f3b35290f0800000000000000
+      internalID: -1111734125555197618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 126
+        width: 20
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e455400b96b6fe990800000000000000
+      internalID: -7354541564803918514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 126
+        width: 20
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae7ad0fb1945d640800000000000000
+      internalID: 5104066137048120997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 126
+        width: 20
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5adf70ff39c9f950800000000000000
+      internalID: 6483434415031573083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 23
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23886f0a1a0264840800000000000000
+      internalID: 5207885897662892082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f3def95fadd5670800000000000000
+      internalID: 8529214017794555786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 63
+        width: 20
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91181ee757e535e20800000000000000
+      internalID: 3338115607544561945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da368920114c8a3f0800000000000000
+      internalID: -889245349068643411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3087a3383afcec0800000000000000
+      internalID: -3544434597700303891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 27
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a65c34583409cd00800000000000000
+      internalID: 993329832789825189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 22
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbe7900333c4ad40800000000000000
+      internalID: 5594811260921703344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioFallAndLand_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 19
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d015a4d7adbe0afa0800000000000000
+      internalID: -5791369797161037555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

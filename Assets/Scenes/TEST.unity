@@ -1590,6 +1590,7 @@ MonoBehaviour:
     spd: 5
     mirror: 0
     flip: 0
+    notloop: 0
   animid: 0
   frame: 0
   counter: 0
@@ -5407,6 +5408,7 @@ MonoBehaviour:
     spd: 1
     mirror: 0
     flip: 0
+    notloop: 0
   - name: UpRightW
     Spr:
     - {fileID: -4629083463231740692, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5424,6 +5426,7 @@ MonoBehaviour:
     spd: 1
     mirror: 0
     flip: 0
+    notloop: 0
   - name: RightW
     Spr:
     - {fileID: -2847021429427689333, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5441,6 +5444,7 @@ MonoBehaviour:
     spd: 1
     mirror: 0
     flip: 0
+    notloop: 0
   - name: DownRightW
     Spr:
     - {fileID: 1846702043595453220, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5458,6 +5462,7 @@ MonoBehaviour:
     spd: 1
     mirror: 0
     flip: 0
+    notloop: 0
   - name: DownW
     Spr:
     - {fileID: 2867940084748108200, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5475,6 +5480,7 @@ MonoBehaviour:
     spd: 1
     mirror: 0
     flip: 0
+    notloop: 0
   - name: DownLeftW
     Spr:
     - {fileID: 7946372403932571233, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5492,6 +5498,7 @@ MonoBehaviour:
     spd: 1
     mirror: 0
     flip: 0
+    notloop: 0
   - name: LeftW
     Spr:
     - {fileID: -4687328214969487179, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5509,6 +5516,7 @@ MonoBehaviour:
     spd: 1
     mirror: 0
     flip: 0
+    notloop: 0
   - name: UpLeftW
     Spr:
     - {fileID: -6075251137171124240, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5526,6 +5534,7 @@ MonoBehaviour:
     spd: 1
     mirror: 0
     flip: 0
+    notloop: 0
   - name: NoUsed
     Spr:
     - {fileID: 7034624953906740194, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5534,6 +5543,7 @@ MonoBehaviour:
     spd: 1
     mirror: 0
     flip: 0
+    notloop: 0
   - name: UpI
     Spr:
     - {fileID: 8157073288946000409, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5564,6 +5574,7 @@ MonoBehaviour:
     spd: 3
     mirror: 0
     flip: 0
+    notloop: 0
   - name: UpRightI
     Spr:
     - {fileID: -3344387278660947826, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5594,6 +5605,7 @@ MonoBehaviour:
     spd: 3
     mirror: 0
     flip: 0
+    notloop: 0
   - name: RightI
     Spr:
     - {fileID: 1149510748241259037, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5623,6 +5635,7 @@ MonoBehaviour:
     spd: 3
     mirror: 0
     flip: 0
+    notloop: 0
   - name: DownRightI
     Spr:
     - {fileID: -4782203974036679124, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5652,6 +5665,7 @@ MonoBehaviour:
     spd: 3
     mirror: 0
     flip: 0
+    notloop: 0
   - name: DownI
     Spr:
     - {fileID: -124880758079089006, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5682,6 +5696,7 @@ MonoBehaviour:
     spd: 3
     mirror: 0
     flip: 0
+    notloop: 0
   - name: DownLeftI
     Spr:
     - {fileID: 3747067095544307529, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5712,6 +5727,7 @@ MonoBehaviour:
     spd: 3
     mirror: 0
     flip: 0
+    notloop: 0
   - name: LeftI
     Spr:
     - {fileID: -446434322086382298, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5742,6 +5758,7 @@ MonoBehaviour:
     spd: 3
     mirror: 0
     flip: 0
+    notloop: 0
   - name: UpLeftI
     Spr:
     - {fileID: -3343842128218380332, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
@@ -5772,63 +5789,167 @@ MonoBehaviour:
     spd: 3
     mirror: 0
     flip: 0
+    notloop: 0
   - name: UpJm
     Spr:
     - {fileID: 7034624953906740194, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
     - {fileID: 7034624953906740194, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
-    spd: 1
+    - {fileID: 4044181489595673034, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -1162195428969762806, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 12
     mirror: 0
     flip: 0
+    notloop: 1
   - name: UpRightJm
     Spr:
     - {fileID: -322997979054191326, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
     - {fileID: -322997979054191326, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
-    - {fileID: -322997979054191326, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
-    spd: 1
+    - {fileID: 2846102575337658923, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 7792038934053803044, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 12
     mirror: 0
     flip: 0
+    notloop: 1
   - name: RightJm
     Spr:
     - {fileID: -4581745141177617780, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
     - {fileID: -4581745141177617780, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
-    spd: 1
+    - {fileID: 1076484436407751124, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -56489074367805673, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 12
     mirror: 0
     flip: 0
+    notloop: 1
   - name: RightDownJm
     Spr:
     - {fileID: -2942252950775069846, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
     - {fileID: -2942252950775069846, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
-    spd: 1
+    - {fileID: 8286477056157003718, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -5009465262474361909, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 12
     mirror: 0
     flip: 0
+    notloop: 1
   - name: DownJm
     Spr:
     - {fileID: -7453626412296325244, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
     - {fileID: -7453626412296325244, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
-    spd: 1
+    - {fileID: 7091759432318033764, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -4356499471303274920, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 12
     mirror: 0
     flip: 0
+    notloop: 1
   - name: DownLeftJm
     Spr:
     - {fileID: 575382234231548556, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
     - {fileID: 575382234231548556, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
-    spd: 1
+    - {fileID: -6866527364646578115, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 3214390104249200768, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 12
     mirror: 0
     flip: 0
+    notloop: 1
   - name: LeftJm
     Spr:
     - {fileID: 3788165912265224486, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
     - {fileID: 3788165912265224486, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
-    spd: 1
+    - {fileID: -5167557303198735390, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 3097120084022883649, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 12
     mirror: 0
     flip: 0
+    notloop: 1
   - name: UpLeftJm
     Spr:
     - {fileID: 8043231254176478489, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
     - {fileID: 8043231254176478489, guid: 79c9e912a3c48a84ba3301710ab80a58, type: 3}
-    spd: 1
+    - {fileID: 8282436858341264795, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -1688618503247834496, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 12
     mirror: 0
     flip: 0
+    notloop: 1
+  - name: LandUp
+    Spr:
+    - {fileID: -3943637166229839617, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 3998281997773766508, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -7219358224984980152, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 5151608497654742961, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 5
+    mirror: 0
+    flip: 0
+    notloop: 1
+  - name: UpRightLand
+    Spr:
+    - {fileID: -7809011874461280178, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -8785481823169542817, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 2359568520105464856, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -129743120573434494, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 5
+    mirror: 0
+    flip: 0
+    notloop: 1
+  - name: RightLand
+    Spr:
+    - {fileID: 3323098925588546008, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -1879763006417370951, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 8089993262647209806, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -8364555654169073527, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 5
+    mirror: 0
+    flip: 0
+    notloop: 1
+  - name: DownRightLand
+    Spr:
+    - {fileID: 1515625693662302149, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 6234372262275997406, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 4492442748276703052, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -6412061749592639830, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 5
+    mirror: 0
+    flip: 0
+    notloop: 1
+  - name: DownLand
+    Spr:
+    - {fileID: -5305933047847172354, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -9150522971579488374, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -5862049353243006179, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 7840282875894571155, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 5
+    mirror: 0
+    flip: 0
+    notloop: 1
+  - name: DownLeftLand
+    Spr:
+    - {fileID: -1111734125555197618, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -7354541564803918514, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 5104066137048120997, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 6483434415031573083, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 5
+    mirror: 0
+    flip: 0
+    notloop: 1
+  - name: LeftLand
+    Spr:
+    - {fileID: 5207885897662892082, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 8529214017794555786, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 3338115607544561945, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -889245349068643411, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 5
+    mirror: 0
+    flip: 0
+    notloop: 1
+  - name: LeftUpLand
+    Spr:
+    - {fileID: -3544434597700303891, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 993329832789825189, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: 5594811260921703344, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    - {fileID: -5791369797161037555, guid: 8976cb8e0faef8c429b4b81f0a8c5a2d, type: 3}
+    spd: 5
+    mirror: 0
+    flip: 0
+    notloop: 1
   animid: 0
   frame: 0
   counter: 0
@@ -5857,6 +5978,7 @@ MonoBehaviour:
   walking: 0
   idle: 0
   floor: 0
+  landing: 0
   rigid: {fileID: 1730207884}
   shdow: {fileID: 70251508}
   dist: 0.5

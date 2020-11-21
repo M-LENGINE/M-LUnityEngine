@@ -7,7 +7,7 @@ public class PlayerMov : MonoBehaviour
 {
     public SpriteAnim AnimMotor;
     public float MovSPD,xx,yy,jmpdist,forcejmp;
-    public bool jumping,walking,idle,floor;
+    public bool jumping,walking,idle,floor,landing;
     public Rigidbody rigid;
     public ShadowScr shdow;
     private RaycastHit hit;
@@ -41,23 +41,32 @@ public class PlayerMov : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Z))
             {
                 Invoke("S",0.1f);
-                
+                AnimMotor.frame = 0;
+                AnimMotor.counter = 0;
                 shdow.Anim();
                 AnimMotor.updateanim();
                 rigid.AddForce(Vector3.up * forcejmp);
+                landing = false;
+                walking = false;
+                idle = false;
             }
         }
         Debug.DrawLine(new Vector3(this.transform.position.x, this.transform.position.y + 0.15f, this.transform.position.z), new Vector3(this.transform.position.x, 0f,this.transform.position.z),Color.red);
         if (Physics.Raycast(new Vector3(this.transform.position.x, this.transform.position.y + 0.15f, this.transform.position.z), Vector3.down, dist))
         {
+            
             if (saltar) {
                 saltar = false;
+
                 if (moving) {
                     walking = true;
                     idle = false;
                 } else {
-                    idle = true;
+                    idle = false;
                     walking = false;
+                    landing = true;
+                    AnimMotor.frame = 0;
+                    Invoke("StopLand", 0.5f);
                 }
                 
             }
@@ -106,7 +115,8 @@ public class PlayerMov : MonoBehaviour
             walking = true;
             idle = false;
             moving = true;
-        }
+            landing = false;
+            }
         if (Input.GetKeyUp(KeyCode.DownArrow)) {
 
             AnimMotor.animid = 13;
@@ -142,7 +152,11 @@ public class PlayerMov : MonoBehaviour
             iv.Dbg_show();
         }
     }
-
+    void StopLand() {
+        walking = false;
+        idle = true;
+        landing = false;
+    }
     void DirUpd() {
         if (xx == 0 && yy > 0)
         {
@@ -188,12 +202,20 @@ public class PlayerMov : MonoBehaviour
         if (walking) {
         AnimMotor.animid = dirbef-1;
         }
-        if (idle) {
-        AnimMotor.animid = dirbef+8;
-        }
+        
         if (!floor) {
             
             AnimMotor.animid = dirbef+16;
+        }
+        if (!landing)
+        {
+            if (idle)
+            {
+                AnimMotor.animid = dirbef + 8;
+            }
+        }
+        else {
+            AnimMotor.animid = dirbef + 24;
         }
     }
 }

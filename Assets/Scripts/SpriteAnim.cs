@@ -6,7 +6,7 @@ public class SPRANIM {
     public string name;
     public Sprite[] Spr;
     public int spd;
-    public bool mirror, flip;
+    public bool mirror, flip,notloop;
 }
 public class SpriteAnim : MonoBehaviour
 {
@@ -19,6 +19,7 @@ public class SpriteAnim : MonoBehaviour
     public SpriteRenderer rend;
      void Start()
     {
+        Application.targetFrameRate = 60;
         if (Animations[animid].Spr.Length > 1)
         {
 
@@ -43,19 +44,33 @@ public class SpriteAnim : MonoBehaviour
         }
         rend.flipX = Animations[animid].mirror;
         rend.flipY = Animations[animid].flip;
-        if (len) {
-            if (frame >= Animations[animid].Spr.Length)
-            {
-                frame = 0;
-            }
-        }
-        else
+        if (!Animations[animid].notloop)
         {
+
+            if (len)
+            {
+                if (frame >= Animations[animid].Spr.Length)
+                {
+                    frame = 0;
+                }
+            }
+            else
+            {
+                if (frame >= Animations[animid].Spr.Length)
+                {
+                    frame = 0;
+                }
+            }
+
+        }
+        else {
+
             if (frame >= Animations[animid].Spr.Length)
             {
-                frame = 0;
+                frame = Animations[animid].Spr.Length-1;
             }
         }
+        
        
         
     }
