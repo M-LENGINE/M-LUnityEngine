@@ -25,6 +25,7 @@ public class PlayerMov : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        DirUpd();
          AnimMotor.updateanim();
         if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow)) 
         {
@@ -97,30 +98,7 @@ public class PlayerMov : MonoBehaviour
             walking = true;
             idle = false;
         } 
-            if (xx == 0 && yy > 0) {
-                  dirbef = 1;
-                }
-                if (xx > 0 && yy > 0) {
-                  dirbef = 2;
-                }
-                if (xx > 0 && yy == 0) {
-                  dirbef = 3;
-                }
-                if (xx > 0 && yy < 0) {
-                  dirbef = 4;
-                }
-                if (xx == 0 && yy < 0) {
-                  dirbef = 5;
-                }
-                if (xx < 0 && yy < 0) {
-                  dirbef = 6;
-                }
-                if (xx < 0 && yy == 0) {
-                  dirbef = 7;
-                }
-                if (xx < 0 && yy > 0) {
-                  dirbef = 8;
-                }
+            
         if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.LeftArrow))
         {
             AnimMotor.frame = 0;
@@ -163,8 +141,41 @@ public class PlayerMov : MonoBehaviour
             iv.Dbg_show();
         }
     }
- 
-   
+
+    void DirUpd() {
+        if (xx == 0 && yy > 0)
+        {
+            dirbef = 1;
+        }
+        if (xx > 0 && yy > 0)
+        {
+            dirbef = 2;
+        }
+        if (xx > 0 && yy == 0)
+        {
+            dirbef = 3;
+        }
+        if (xx > 0 && yy < 0)
+        {
+            dirbef = 4;
+        }
+        if (xx == 0 && yy < 0)
+        {
+            dirbef = 5;
+        }
+        if (xx < 0 && yy < 0)
+        {
+            dirbef = 6;
+        }
+        if (xx < 0 && yy == 0)
+        {
+            dirbef = 7;
+        }
+        if (xx < 0 && yy > 0)
+        {
+            dirbef = 8;
+        }
+    }
     void S() {
         saltar = true;
     }
