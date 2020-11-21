@@ -7,7 +7,7 @@ public class PlayerMov : MonoBehaviour
 {
     public SpriteAnim AnimMotor;
     public float MovSPD,xx,yy,jmpdist,forcejmp;
-    public bool jumping,walking,idle,floor,landing;
+    public bool jumping, walking, idle, floor, landing, warping, caninput;
     public Rigidbody rigid;
     public ShadowScr shdow;
     private RaycastHit hit;
@@ -17,7 +17,7 @@ public class PlayerMov : MonoBehaviour
     public bool moving;
     public InventorySystem iv;
     public AudioSource Jump;
-
+    public int warpdir = 0; // 0 - right, 1 - up, 2 - left, 3 - down.
     // Start is called before the first frame update
     void Start()
     {
@@ -29,17 +29,11 @@ public class PlayerMov : MonoBehaviour
     {
         DirUpd();
          AnimMotor.updateanim();
-        if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow)) 
-        {
-          xx = 0;
-        }
-        if (Input.GetKeyUp(KeyCode.UpArrow) || Input.GetKeyUp(KeyCode.DownArrow)) 
-        {
-          yy = 0;
-        }
+        
         MovAnimMotor();
         if (floor & !jumping)
         {
+            if (caninput) { 
             if (Input.GetKeyDown(KeyCode.Z))
             {
                 Jump.Play();
@@ -52,6 +46,7 @@ public class PlayerMov : MonoBehaviour
                 landing = false;
                 walking = false;
                 idle = false;
+            }
             }
         }
         Debug.DrawLine(new Vector3(this.transform.position.x, this.transform.position.y + 0.15f, this.transform.position.z), new Vector3(this.transform.position.x, 0f,this.transform.position.z),Color.red);
@@ -86,32 +81,43 @@ public class PlayerMov : MonoBehaviour
             shdow.zfloor = hit.collider.transform.position.y + 0.14f;
             }
         }
+        if (caninput) {
+            if (Input.GetKey(KeyCode.RightArrow))
+            {
+                xx = 1;
 
-        if (Input.GetKey(KeyCode.RightArrow)) {
-            xx = 1;
+            }
+            if (Input.GetKey(KeyCode.LeftArrow))
+            {
+                xx = -1;
 
+            }
+            if (Input.GetKey(KeyCode.UpArrow))
+            {
+                yy = 1;
+
+            }
+            if (Input.GetKey(KeyCode.DownArrow))
+            {
+                yy = -1;
+
+            }
+            if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow))
+            {
+                xx = 0;
+            }
+            if (Input.GetKeyUp(KeyCode.UpArrow) || Input.GetKeyUp(KeyCode.DownArrow))
+            {
+                yy = 0;
+            }
         }
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            xx = -1;
-         
-        }
-        if (Input.GetKey(KeyCode.UpArrow))
-        {
-            yy = 1;
-          
-        }
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            yy = -1;
-           
-        }
+       
         if (floor) {
         if (moving) {
             walking = true;
             idle = false;
         } 
-            
+         if (caninput) { 
         if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.LeftArrow))
         {
             AnimMotor.frame = 0;
@@ -148,7 +154,8 @@ public class PlayerMov : MonoBehaviour
             idle = true;
             moving = false;
         }
-    }
+            }
+        }
 
         this.transform.Translate(-yy * MovSPD, 0f, xx * MovSPD);
         if (Input.GetKeyDown(KeyCode.C)) {
@@ -202,23 +209,55 @@ public class PlayerMov : MonoBehaviour
     }
     void MovAnimMotor() {
         AnimMotor.play = true;
+
         if (walking) {
         AnimMotor.animid = dirbef-1;
         }
-        
-        if (!floor) {
-            
-            AnimMotor.animid = dirbef+16;
-        }
-        if (!landing)
+        if (!warping)
         {
-            if (idle)
+            if (!floor)
             {
-                AnimMotor.animid = dirbef + 8;
+
+                AnimMotor.animid = dirbef + 16;
+            }
+            if (!landing)
+            {
+                if (idle)
+                {
+                    AnimMotor.animid = dirbef + 8;
+                }
+            }
+            else
+            {
+                AnimMotor.animid = dirbef + 24;
             }
         }
         else {
-            AnimMotor.animid = dirbef + 24;
+            walking = true;
+            idle = false;
+            jumping = false;
+            landing = false;
+            caninput = false;
+            if (warpdir == 0) {
+                xx = 1;
+                yy = 0;
+            }else if (warpdir == 1)
+            {
+                xx = 0;
+                yy = 1;
+            }
+            else if (warpdir == 2)
+            {
+                xx = -1;
+                yy = 0;
+            }
+            else if (warpdir == 3)
+            {
+                xx = 0;
+                yy = -1;
+            }
+
         }
+        
     }
 }

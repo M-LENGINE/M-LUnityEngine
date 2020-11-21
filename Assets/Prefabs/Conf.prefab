@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2760513178995160092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2760513178995160094}
+  - component: {fileID: 2760513178995160095}
+  - component: {fileID: 2760513178995160089}
+  m_Layer: 0
+  m_Name: Conf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &2760513178995160094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2760513178995160092}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 467.25024, y: 562.47473, z: -680.875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2760513178995160095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2760513178995160092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fe08f7c39d48d4c9ab7be2d8be36bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  originalItemDatabase:
+    Database:
+    - displayName: Mushroom
+      Engine_Name: Mushroom
+      Description: Heals 30 HP.
+      displaySprite: {fileID: -3506959082431470849, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: Mushroom
+    - displayName: Super Mushroom
+      Engine_Name: SMushroom
+      Description: Heals 50 HP
+      displaySprite: {fileID: -3506959082431470849, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: SMushroom
+    - displayName: Max Mushroom
+      Engine_Name: MMushroom
+      Description: Heals 100 HP
+      displaySprite: {fileID: -3506959082431470849, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: MMushroom
+    - displayName: Nut
+      Engine_Name: Nut
+      Description: 'Heals 15 HP For all allies '
+      displaySprite: {fileID: -2394908715665899865, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: Nut
+    - displayName: Super Nut
+      Engine_Name: SNut
+      Description: 'Heals 30 HP For all allies '
+      displaySprite: {fileID: -2394908715665899865, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: SNut
+    - displayName: Refreshing Herb
+      Engine_Name: Herb
+      Description: Erases all bad states.
+      displaySprite: {fileID: -518685564164331720, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: Herb
+    EDatabase:
+    - displayName: Normal Clothes
+      Engine_Name: Normal_CL
+      Description: Default Clothes.
+      displaySprite: {fileID: 8005525849168247092, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: 
+      Raise:
+        HP: 0
+        BP: 2
+        JMP_POW: 0
+        HAMMER_POW: 0
+        HAND_POW: 0
+        DEF: 5
+        SPD: 1
+        MUSTACHE: 1
+    - displayName: Normal Hammer
+      Engine_Name: Normal_Hm
+      Description: Default Hammer.
+      displaySprite: {fileID: 8005525849168247092, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: 
+      Raise:
+        HP: 0
+        BP: 0
+        JMP_POW: 0
+        HAMMER_POW: 2
+        HAND_POW: 0
+        DEF: 0
+        SPD: 0
+        MUSTACHE: 0
+    - displayName: Fancy Boots
+      Engine_Name: FNCY_BTS
+      Description: Fancy Boots, Allows TRIPLE JUMP!
+      displaySprite: {fileID: 3581566221771168758, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: Triple_Jmp
+      Raise:
+        HP: 0
+        BP: 0
+        JMP_POW: 2
+        HAMMER_POW: 0
+        HAND_POW: 0
+        DEF: 0
+        SPD: 0
+        MUSTACHE: 0
+    - displayName: Defense Boots
+      Engine_Name: Normal_Hm
+      Description: Jump on new enemies.
+      displaySprite: {fileID: 8005525849168247092, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: NOESPINAS
+      Raise:
+        HP: 0
+        BP: 0
+        JMP_POW: 0
+        HAMMER_POW: 0
+        HAND_POW: 0
+        DEF: 15
+        SPD: 0
+        MUSTACHE: 0
+    - displayName: Ultra Boots
+      Engine_Name: Boots_U
+      Description: KK
+      displaySprite: {fileID: 8005525849168247092, guid: a094b23863c960245b17bdb9123c1ab5,
+        type: 3}
+      Action: NOESPINAS
+      Raise:
+        HP: 0
+        BP: 0
+        JMP_POW: 0
+        HAMMER_POW: 0
+        HAND_POW: 0
+        DEF: 15
+        SPD: 0
+        MUSTACHE: 0
+--- !u!114 &2760513178995160089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2760513178995160092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8f42cece74698046bf3f4976ff7e2e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inv:
+    EquipItems:
+    - Name: Clothes1
+      ID: 0
+      count: 1
+    - Name: DEFBoots
+      ID: 3
+      count: 1
+    - Name: Hammer1
+      ID: 1
+      count: 1
+    - Name: FNCY_BTS
+      ID: 2
+      count: 1
+    Items:
+    - Name: mush
+      ID: 0
+      count: 15
+    - Name: smush
+      ID: 1
+      count: 5
+    E: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
